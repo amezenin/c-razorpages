@@ -1,0 +1,9 @@
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\bin\Debug\netstandard2.0\BLL.App.DTO.deps.json
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\bin\Debug\netstandard2.0\BLL.App.DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\bin\Debug\netstandard2.0\BLL.App.DTO.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\obj\Debug\netstandard2.0\BLL.App.DTO.csprojAssemblyReference.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\obj\Debug\netstandard2.0\BLL.App.DTO.csproj.CoreCompileInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\obj\Debug\netstandard2.0\BLL.App.DTO.AssemblyInfoInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\obj\Debug\netstandard2.0\BLL.App.DTO.AssemblyInfo.cs
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\obj\Debug\netstandard2.0\BLL.App.DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\BLL.App.DTO\obj\Debug\netstandard2.0\BLL.App.DTO.pdb

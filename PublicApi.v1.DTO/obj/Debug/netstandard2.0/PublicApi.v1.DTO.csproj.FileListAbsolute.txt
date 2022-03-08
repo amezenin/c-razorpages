@@ -1,0 +1,8 @@
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\bin\Debug\netstandard2.0\PublicApi.v1.DTO.deps.json
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\bin\Debug\netstandard2.0\PublicApi.v1.DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\bin\Debug\netstandard2.0\PublicApi.v1.DTO.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\obj\Debug\netstandard2.0\PublicApi.v1.DTO.csproj.CoreCompileInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\obj\Debug\netstandard2.0\PublicApi.v1.DTO.AssemblyInfoInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\obj\Debug\netstandard2.0\PublicApi.v1.DTO.AssemblyInfo.cs
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\obj\Debug\netstandard2.0\PublicApi.v1.DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\PublicApi.v1.DTO\obj\Debug\netstandard2.0\PublicApi.v1.DTO.pdb

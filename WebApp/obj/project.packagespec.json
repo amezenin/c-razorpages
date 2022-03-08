@@ -1,0 +1,127 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\WebApp\\WebApp.csproj",
+    "projectName": "WebApp",
+    "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\WebApp\\WebApp.csproj",
+    "outputPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\WebApp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\BLL.App.DTO\\BLL.App.DTO.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\BLL.App.DTO\\BLL.App.DTO.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\BLL.App\\BLL.App.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\BLL.App\\BLL.App.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.BLL.App\\Contracts.BLL.App.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.BLL.App\\Contracts.BLL.App.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\DAL.App.EF\\DAL.App.EF.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\DAL.App.EF\\DAL.App.EF.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v1.DTO\\PublicApi.v1.DTO.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v1.DTO\\PublicApi.v1.DTO.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v1\\PublicApi.v1.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v1\\PublicApi.v1.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v2.DTO\\PublicApi.v2.DTO.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v2.DTO\\PublicApi.v2.DTO.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v2\\PublicApi.v2.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\PublicApi.v2\\PublicApi.v2.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Mvc.Versioning": {
+          "target": "Package",
+          "version": "[3.1.2, )"
+        },
+        "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+          "target": "Package",
+          "version": "[3.2.0, )"
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[2.2.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Pomelo.EntityFrameworkCore.MySql": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        },
+        "ee.itcollege.anmeze.BLL.Base": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "ee.itcollege.anmeze.Contract.BLL.Base": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "ee.itcollege.anmeze.Contracts.Base": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "ee.itcollege.anmeze.Contracts.DAL.Base": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "ee.itcollege.anmeze.DAL.Base.EF": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "ee.itcollege.anmeze.Identity": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

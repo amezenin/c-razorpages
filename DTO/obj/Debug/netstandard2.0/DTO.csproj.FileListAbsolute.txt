@@ -1,0 +1,14 @@
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\Contracts.DAL.Base.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\Domain.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\Domain.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\bin\Debug\netstandard2.0\Contracts.DAL.Base.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\DTO\obj\Debug\netstandard2.0\DTO.csproj.CopyComplete

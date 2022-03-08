@@ -1,0 +1,14 @@
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\Contracts.DAL.App.deps.json
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\Contracts.DAL.App.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\Contracts.DAL.App.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\DAL.App.DTO.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\Domain.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\DAL.App.DTO.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\bin\Debug\netstandard2.0\Domain.pdb
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.csprojAssemblyReference.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.csproj.CoreCompileInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.AssemblyInfoInputs.cache
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.AssemblyInfo.cs
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.csproj.CopyComplete
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.dll
+C:\itcollege\VR2\icd0009-2018\FishFarm\Contracts.DAL.App\obj\Debug\netstandard2.0\Contracts.DAL.App.pdb

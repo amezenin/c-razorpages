@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.BLL.App\\Contracts.BLL.App.csproj",
+    "projectName": "Contracts.BLL.App",
+    "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.BLL.App\\Contracts.BLL.App.csproj",
+    "outputPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.BLL.App\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\BLL.App.DTO\\BLL.App.DTO.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\BLL.App.DTO\\BLL.App.DTO.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.DAL.App\\Contracts.DAL.App.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Contracts.DAL.App\\Contracts.DAL.App.csproj"
+          },
+          "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Domain\\Domain.csproj": {
+            "projectPath": "C:\\itcollege\\VR2\\icd0009-2018\\FishFarm\\Domain\\Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        },
+        "ee.itcollege.anmeze.BLL.Base": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

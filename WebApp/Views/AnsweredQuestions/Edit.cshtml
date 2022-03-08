@@ -1,0 +1,44 @@
+@model AnsweredQuestionCreateEditViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AnsweredQuestion</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input type="hidden" class="form-check-input" asp-for="Value" /> @Html.DisplayNameFor(model => Model.Value)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnsweredQuestion.FarmerId" class="control-label"></label>
+                <select asp-for="AnsweredQuestion.FarmerId" class="form-control" asp-items="Model.FarmerSelectList"></select>
+                <span asp-validation-for="AnsweredQuestion.FarmerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AnsweredQuestion.QuestionId" class="control-label"></label>
+                <select asp-for="AnsweredQuestion.QuestionId" class="form-control" asp-items="Model.QuestionSelectList"></select>
+                <span asp-validation-for="AnsweredQuestion.QuestionId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="AnsweredQuestion.Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

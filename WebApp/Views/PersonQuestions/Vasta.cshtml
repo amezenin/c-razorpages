@@ -1,0 +1,81 @@
+@model PersonQuestionVastaViewModel
+
+@{
+    ViewData["Title"] = "Vasta";
+}
+
+<h1>Edit</h1>
+
+<h4>PersonQuestion</h4>
+<hr />
+<dl class="row">
+    <dt class = "col-sm-2">
+        @Html.DisplayNameFor(model => model.Farmer)
+    </dt>
+    <dd class = "col-sm-10">
+        @Html.DisplayFor(model => model.Farmer.Firstname)
+    </dd>
+    <dt class = "col-sm-2">
+        @Html.DisplayNameFor(model => model.Question)
+    </dt>
+    <dd class = "col-sm-10">
+        @Html.DisplayFor(model => model.Question.QuestionText)
+    </dd>
+    <dt class = "col-sm-2">
+        @Html.DisplayNameFor(model => model.Answer)
+    </dt>
+    <dd class = "col-sm-10">
+        @Html.DisplayFor(model => model.Answer.AnswerValueFirst)
+    </dd>
+    <dt class = "col-sm-2">
+        @Html.DisplayNameFor(model => model.Answer)
+    </dt>
+    <dd class = "col-sm-10">
+        @Html.DisplayFor(model => model.Answer.AnswerValueSecond)
+    </dd>
+    <dt class = "col-sm-2">
+        @Html.DisplayNameFor(model => model.Answer)
+    </dt>
+    <dd class = "col-sm-10">
+        @Html.DisplayFor(model => model.Answer.AnswerValueThird)
+    </dd>
+</dl>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Vasta">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Solution.SolutionValue" class="control-label"></label>
+                <input asp-for="Solution.SolutionValue" class="form-control" />
+                <span asp-validation-for="Solution.SolutionValue" class="text-danger"></span>
+            </div>
+            
+            <input type="hidden" asp-for="PersonQuestion.Id" />
+            <input type="hidden" asp-for="Solution.Id" />
+            <input type="hidden" asp-for="Solution.Name" />
+            <input type="hidden" asp-for="Solution.SolutionText" />
+            <input type="hidden" asp-for="Solution.QuestionId" />
+            <input type="hidden" asp-for="Farmer.Id" />
+            <input type="hidden" asp-for="Farmer.Score" />
+            <input type="hidden" asp-for="Farmer.Firstname" />
+            <input type="hidden" asp-for="Farmer.Lastname" />
+            <input type="hidden" asp-for="Farmer.AppUserId" />
+            <input type="hidden" asp-for="Question.Id" />
+            <input type="hidden" asp-for="Question.QuestionGivesScore" />
+            <input type="hidden" asp-for="Question.QuestionText" />
+            <input type="hidden" asp-for="Question.QuestionMaxScore" />
+            <input type="hidden" asp-for="Question.QuestionMaxScore" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApp</name>
+    </assembly>
+    <members>
+        <member name="M:WebApp.ApiControllers.v1_0.AnsweredQuestionsController.GetAnsweredQuestions">
+            <summary>
+            Get all AnsweredQuestion objects
+            </summary>
+            <returns>Array of all AnsweredQuestions.</returns>
+            <response code="200">The array of AnsweredQuestions was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.AnsweredQuestionsController.GetAnsweredQuestion(System.Int32)">
+            <summary>
+            Get AnsweredQuestion object by ID
+            </summary>
+            <returns>AnsweredQuestions object with details.</returns>
+            <response code="200">AnsweredQuestions was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.AnsweredQuestionsController.PutAnsweredQuestion(System.Int32,PublicApi.v1.DTO.AnsweredQuestion)">
+            <summary>
+            Update AnsweredQuestion object by ID
+            </summary>
+            <returns>AnsweredQuestion updated object.</returns>
+            <response code="200">AnsweredQuestion was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.AnsweredQuestionsController.PostAnsweredQuestion(PublicApi.v1.DTO.AnsweredQuestion)">
+            <summary>
+            Post AnsweredQuestion object 
+            </summary>
+            <returns>Created AnsweredQuestion object.</returns>
+            <response code="200">AnsweredQuestion was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.AnsweredQuestionsController.DeleteAnsweredQuestion(System.Int32)">
+            <summary>
+            Delete AnsweredQuestion object by ID
+            </summary>
+            <returns>AnsweredQuestion object deleted.</returns>
+            <response code="200">AnsweredQuestion was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentsController.GetEquipments">
+            <summary>
+            Get all Equipment objects
+            </summary>
+            <returns>Array of all Equipments.</returns>
+            <response code="200">The array of Equipments was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentsController.GetEquipment(System.Int32)">
+            <summary>
+            Get Equipment object by ID
+            </summary>
+            <returns>Equipment object with details.</returns>
+            <response code="200">Equipment was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentsController.PutEquipment(System.Int32,PublicApi.v1.DTO.Equipment)">
+            <summary>
+            Update Equipment object by ID
+            </summary>
+            <returns>Equipment updated object.</returns>
+            <response code="200">Equipment was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentsController.PostEquipment(PublicApi.v1.DTO.Equipment)">
+            <summary>
+            Post Equipment object 
+            </summary>
+            <returns>Created Equipment object.</returns>
+            <response code="200">Equipment was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentsController.DeleteEquipment(System.Int32)">
+            <summary>
+            Delete Equipment object by ID
+            </summary>
+            <returns>Equipment object deleted.</returns>
+            <response code="200">Equipment was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentTypesController.GetEquipmentTypes">
+            <summary>
+            Get all EquipmentType objects
+            </summary>
+            <returns>Array of all EquipmentType with counts of equipment.</returns>
+            <response code="200">The array of EquipmentType was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentTypesController.GetEquipmentType(System.Int32)">
+            <summary>
+            Get EquipmentType object by ID
+            </summary>
+            <returns>EquipmentType object with details.</returns>
+            <response code="200">EquipmentType was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentTypesController.PutEquipmentType(System.Int32,PublicApi.v1.DTO.EquipmentType)">
+            <summary>
+            Update EquipmentType object by ID
+            </summary>
+            <returns>EquipmentType updated object.</returns>
+            <response code="200">EquipmentType was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentTypesController.PostEquipmentType(PublicApi.v1.DTO.EquipmentType)">
+            <summary>
+            Post EquipmentType object 
+            </summary>
+            <returns>Created EquipmentType object.</returns>
+            <response code="200">EquipmentType was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.EquipmentTypesController.DeleteEquipmentType(System.Int32)">
+            <summary>
+            Delete EquipmentType object by ID
+            </summary>
+            <returns>EquipmentType object deleted.</returns>
+            <response code="200">EquipmentType was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmersController.GetFarmers">
+            <summary>
+            Get all Farmer objects
+            </summary>
+            <returns>Array of all Farmer with counts of equipment.</returns>
+            <response code="200">The array of Farmer was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmersController.GetFarmer(System.Int32)">
+            <summary>
+            Get Farmer object by ID
+            </summary>
+            <returns>Farmer object with details.</returns>
+            <response code="200">Farmer was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmersController.PutFarmer(System.Int32,PublicApi.v1.DTO.Farmer)">
+            <summary>
+            Update Farmer object by ID
+            </summary>
+            <returns>Farmer updated object.</returns>
+            <response code="200">Farmer was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmersController.PostFarmer(PublicApi.v1.DTO.Farmer)">
+            <summary>
+            Post Farmer object 
+            </summary>
+            <returns>Created Farmer object.</returns>
+            <response code="200">Farmer was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmersController.DeleteFarmer(System.Int32)">
+            <summary>
+            Delete Farmer object by ID
+            </summary>
+            <returns>Farmer object deleted.</returns>
+            <response code="200">Farmer was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmsController.GetFarms">
+            <summary>
+            Get all Farm objects
+            </summary>
+            <returns>Array of all Farm with counts of equipment.</returns>
+            <response code="200">The array of Farm was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmsController.GetFarm(System.Int32)">
+            <summary>
+            Get Farm object by ID
+            </summary>
+            <returns>Farm object with details.</returns>
+            <response code="200">Farm was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmsController.PutFarm(System.Int32,PublicApi.v1.DTO.Farm)">
+            <summary>
+            Update Farm object by ID
+            </summary>
+            <returns>Farm updated object.</returns>
+            <response code="200">Farm was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmsController.PostFarm(PublicApi.v1.DTO.Farm)">
+            <summary>
+            Post Farm object 
+            </summary>
+            <returns>Created Farm object.</returns>
+            <response code="200">Farm was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FarmsController.DeleteFarm(System.Int32)">
+            <summary>
+            Delete Farm object by ID
+            </summary>
+            <returns>Farm object deleted.</returns>
+            <response code="200">Farm was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FishTypesController.GetFishTypes">
+            <summary>
+            Get all FishType objects
+            </summary>
+            <returns>Array of all FishType with counts of equipment.</returns>
+            <response code="200">The array of FishType was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FishTypesController.GetFishType(System.Int32)">
+            <summary>
+            Get FishType object by ID
+            </summary>
+            <returns>FishType object with details.</returns>
+            <response code="200">FishType was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FishTypesController.PutFishType(System.Int32,PublicApi.v1.DTO.FishType)">
+            <summary>
+            Update FishType object by ID
+            </summary>
+            <returns>FishType updated object.</returns>
+            <response code="200">FishType was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FishTypesController.PostFishType(PublicApi.v1.DTO.FishType)">
+            <summary>
+            Post FishType object 
+            </summary>
+            <returns>Created FishType object.</returns>
+            <response code="200">FishType was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.FishTypesController.DeleteFishType(System.Int32)">
+            <summary>
+            Delete FishType object by ID
+            </summary>
+            <returns>FishType object deleted.</returns>
+            <response code="200">FishType was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.PersonQuestionsController.GetPersonQuestions">
+            <summary>
+            Get all PersonQuestion objects
+            </summary>
+            <returns>Array of all PersonQuestion with counts of equipment.</returns>
+            <response code="200">The array of PersonQuestion was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.PersonQuestionsController.GetPersonQuestion(System.Int32)">
+            <summary>
+            Get PersonQuestion object by ID
+            </summary>
+            <returns>PersonQuestion object with details.</returns>
+            <response code="200">PersonQuestion was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.PersonQuestionsController.PutPersonQuestion(System.Int32,PublicApi.v1.DTO.PersonQuestion)">
+            <summary>
+            Update PersonQuestion object by ID
+            </summary>
+            <returns>PersonQuestion updated object.</returns>
+            <response code="200">PersonQuestion was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.PersonQuestionsController.PostPersonQuestion(PublicApi.v1.DTO.PersonQuestion)">
+            <summary>
+            Post PersonQuestion object 
+            </summary>
+            <returns>Created PersonQuestion object.</returns>
+            <response code="200">PersonQuestion was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.PersonQuestionsController.DeletePersonQuestion(System.Int32)">
+            <summary>
+            Delete PersonQuestion object by ID
+            </summary>
+            <returns>PersonQuestion object deleted.</returns>
+            <response code="200">PersonQuestion was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.QuestionsController.GetQuestions">
+            <summary>
+            Get all Question objects
+            </summary>
+            <returns>Array of all Question with counts of equipment.</returns>
+            <response code="200">The array of Question was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.QuestionsController.GetQuestion(System.Int32)">
+            <summary>
+            Get Question object by ID
+            </summary>
+            <returns>Question object with details.</returns>
+            <response code="200">Question was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.QuestionsController.PutQuestion(System.Int32,PublicApi.v1.DTO.Question)">
+            <summary>
+            Update Question object by ID
+            </summary>
+            <returns>Question updated object.</returns>
+            <response code="200">Question was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.QuestionsController.PostQuestion(PublicApi.v1.DTO.Question)">
+            <summary>
+            Post Question object 
+            </summary>
+            <returns>Created Question object.</returns>
+            <response code="200">Question was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.QuestionsController.DeleteQuestion(System.Int32)">
+            <summary>
+            Delete Question object by ID
+            </summary>
+            <returns>Question object deleted.</returns>
+            <response code="200">Question was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.SolutionsController.GetSolutions">
+            <summary>
+            Get all Solution objects
+            </summary>
+            <returns>Array of all Solution with counts of equipment.</returns>
+            <response code="200">The array of Solution was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.SolutionsController.GetSolution(System.Int32)">
+            <summary>
+            Get Solution object by ID
+            </summary>
+            <returns>Solution object with details.</returns>
+            <response code="200">Solution was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.SolutionsController.PutSolution(System.Int32,PublicApi.v1.DTO.Solution)">
+            <summary>
+            Update Solution object by ID
+            </summary>
+            <returns>Solution updated object.</returns>
+            <response code="200">Solution was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.SolutionsController.PostSolution(PublicApi.v1.DTO.Solution)">
+            <summary>
+            Post Solution object 
+            </summary>
+            <returns>Created Solution object.</returns>
+            <response code="200">Solution was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.SolutionsController.DeleteSolution(System.Int32)">
+            <summary>
+            Delete Solution object by ID
+            </summary>
+            <returns>Solution object deleted.</returns>
+            <response code="200">Solution was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.TanksController.GetTanks">
+            <summary>
+            Get all Tank objects
+            </summary>
+            <returns>Array of all Tank with counts of equipment.</returns>
+            <response code="200">The array of Tank was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.TanksController.GetTank(System.Int32)">
+            <summary>
+            Get Tank object by ID
+            </summary>
+            <returns>Tank object with details.</returns>
+            <response code="200">Tank was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.TanksController.PutTank(System.Int32,PublicApi.v1.DTO.Tank)">
+            <summary>
+            Update Tank object by ID
+            </summary>
+            <returns>Tank updated object.</returns>
+            <response code="200">Tank was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.TanksController.PostTank(PublicApi.v1.DTO.Tank)">
+            <summary>
+            Post Tank object 
+            </summary>
+            <returns>Created Tank object.</returns>
+            <response code="200">Tank was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1_0.TanksController.DeleteTank(System.Int32)">
+            <summary>
+            Delete Tank object by ID
+            </summary>
+            <returns>Tank object deleted.</returns>
+            <response code="200">Tank was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1._0.AnswersController.GetAnswers">
+            <summary>
+            Get all Answer objects
+            </summary>
+            <returns>Array of all Answers.</returns>
+            <response code="200">The array of Answers was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1._0.AnswersController.GetAnswer(System.Int32)">
+            <summary>
+            Get Answer object by ID
+            </summary>
+            <returns>Answer object with details.</returns>
+            <response code="200">Answer was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1._0.AnswersController.PutAnswer(System.Int32,PublicApi.v1.DTO.Answer)">
+            <summary>
+            Update Answer object by ID
+            </summary>
+            <returns>Answer updated object.</returns>
+            <response code="200">Answer was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1._0.AnswersController.PostAnswer(PublicApi.v1.DTO.Answer)">
+            <summary>
+            Post Answer object 
+            </summary>
+            <returns>Created Answer object.</returns>
+            <response code="200">Answer was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v1._0.AnswersController.DeleteAnswer(System.Int32)">
+            <summary>
+            Delete Answer object by ID
+            </summary>
+            <returns>Answer object deleted.</returns>
+            <response code="200">Answer was successfully deleted.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v2_0.EquipmentTypesController.GetEquipmentTypes">
+            <summary>
+            Get all EquipmentType objects
+            </summary>
+            <returns>Array of all EquipmentType with counts of equipment.</returns>
+            <response code="200">The array of EquipmentType was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v2_0.EquipmentTypesController.GetEquipmentType(System.Int32)">
+            <summary>
+            Get EquipmentType object by ID
+            </summary>
+            <returns>EquipmentType object with details.</returns>
+            <response code="200">EquipmentType was successfully retrieved.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v2_0.EquipmentTypesController.PutEquipmentType(System.Int32,PublicApi.v2.DTO.EquipmentType)">
+            <summary>
+            Update EquipmentType object by ID
+            </summary>
+            <returns>EquipmentType updated object.</returns>
+            <response code="200">EquipmentType was successfully updated.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v2_0.EquipmentTypesController.PostEquipmentType(PublicApi.v2.DTO.EquipmentType)">
+            <summary>
+            Post EquipmentType object 
+            </summary>
+            <returns>Created EquipmentType object.</returns>
+            <response code="200">EquipmentType was successfully created.</response>
+        </member>
+        <member name="M:WebApp.ApiControllers.v2_0.EquipmentTypesController.DeleteEquipmentType(System.Int32)">
+            <summary>
+            Delete EquipmentType object by ID
+            </summary>
+            <returns>EquipmentType object deleted.</returns>
+            <response code="200">EquipmentType was successfully deleted.</response>
+        </member>
+    </members>
+</doc>

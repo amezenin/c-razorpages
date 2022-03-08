@@ -1,0 +1,74 @@
+@model TankCreateEditViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Tank</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Tank.Name" class="control-label"></label>
+                <input asp-for="Tank.Name" class="form-control" />
+                <span asp-validation-for="Tank.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.Dimension" class="control-label"></label>
+                <input asp-for="Tank.Dimension" class="form-control" />
+                <span asp-validation-for="Tank.Dimension" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.Quantity" class="control-label"></label>
+                <input asp-for="Tank.Quantity" class="form-control" />
+                <span asp-validation-for="Tank.Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.AverageMass" class="control-label"></label>
+                <input asp-for="Tank.AverageMass" class="form-control" />
+                <span asp-validation-for="Tank.AverageMass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.RealFcr" class="control-label"></label>
+                <input asp-for="Tank.RealFcr" class="form-control" />
+                <span asp-validation-for="Tank.RealFcr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.RealNh" class="control-label"></label>
+                <input asp-for="Tank.RealNh" class="form-control" />
+                <span asp-validation-for="Tank.RealNh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.RealNo" class="control-label"></label>
+                <input asp-for="Tank.RealNo" class="form-control" />
+                <span asp-validation-for="Tank.RealNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.FarmId" class="control-label"></label>
+                <select asp-for="Tank.FarmId" class="form-control" asp-items="Model.FarmSelectList"></select>
+                <span asp-validation-for="Tank.FarmId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.FishTypeId" class="control-label"></label>
+                <select asp-for="Tank.FishTypeId" class="form-control" asp-items="Model.FishTypeSelectList"></select>
+                <span asp-validation-for="Tank.FishTypeId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Tank.Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

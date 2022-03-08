@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\itcollege\VR2\icd0009-2018\.gitignore" t="Include" />
+    <e p="C:\itcollege\VR2\icd0009-2018\FishFarm" t="IncludeFlat">
+      <e p="BLL.App" t="IncludeRecursive">
+        <e p="AppBLL.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BLL.App.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="AppServiceFactory.cs" t="Include" />
+        </e>
+        <e p="Mappers" t="Include">
+          <e p="AnsweredQuestionMapper.cs" t="Include" />
+          <e p="AnswerMapper.cs" t="Include" />
+          <e p="EquipmentMapper.cs" t="Include" />
+          <e p="EquipmentTypeMapper.cs" t="Include" />
+          <e p="FarmerMapper.cs" t="Include" />
+          <e p="FarmMapper.cs" t="Include" />
+          <e p="FishTypeMapper.cs" t="Include" />
+          <e p="PersonQuestionMapper.cs" t="Include" />
+          <e p="QuestionMapper.cs" t="Include" />
+          <e p="SolutionMapper.cs" t="Include" />
+          <e p="TankMapper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="BLL.App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="AnsweredQuestionsService.cs" t="Include" />
+          <e p="AnswerService.cs" t="Include" />
+          <e p="EquipmentService.cs" t="Include" />
+          <e p="EquipmentTypeService.cs" t="Include" />
+          <e p="FarmerService.cs" t="Include" />
+          <e p="FarmService.cs" t="Include" />
+          <e p="FishTypeService.cs" t="Include" />
+          <e p="PersonQuestionService.cs" t="Include" />
+          <e p="QuestionService.cs" t="Include" />
+          <e p="SolutionService.cs" t="Include" />
+          <e p="TankService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BLL.App.DTO" t="IncludeRecursive">
+        <e p="Answer.cs" t="Include" />
+        <e p="AnsweredQuestion.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BLL.App.DTO.csproj" t="IncludeRecursive" />
+        <e p="Equipment.cs" t="Include" />
+        <e p="EquipmentType.cs" t="Include" />
+        <e p="EquipmentTypeDTO.cs" t="Include" />
+        <e p="Farm.cs" t="Include" />
+        <e p="Farmer.cs" t="Include" />
+        <e p="FishType.cs" t="Include" />
+        <e p="FishTypeDto.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="AppRole.cs" t="Include" />
+          <e p="AppUser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="BLL.App.DTO.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonQuestion.cs" t="Include" />
+        <e p="Question.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+        <e p="Tank.cs" t="Include" />
+        <e p="TankDTO.cs" t="Include" />
+      </e>
+      <e p="Contracts.BLL.App" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts.BLL.App.csproj" t="IncludeRecursive" />
+        <e p="IAppBLL.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Contracts.BLL.App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="IAnsweredQuestionsService.cs" t="Include" />
+          <e p="IAnswerService.cs" t="Include" />
+          <e p="IEquipmentService.cs" t="Include" />
+          <e p="IEquipmentTypeService.cs" t="Include" />
+          <e p="IFarmerService.cs" t="Include" />
+          <e p="IFarmService.cs" t="Include" />
+          <e p="IFishTypeService.cs" t="Include" />
+          <e p="IPersonQuestionService.cs" t="Include" />
+          <e p="IQuestionService.cs" t="Include" />
+          <e p="ISolutionService.cs" t="Include" />
+          <e p="ITankService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Contracts.DAL.App" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts.DAL.App.csproj" t="IncludeRecursive" />
+        <e p="IAppUnitOfWork.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Contracts.DAL.App.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="IAnsweredQuestionsRepository.cs" t="Include" />
+          <e p="IAnswerRepository.cs" t="Include" />
+          <e p="IEquipmentRepository.cs" t="Include" />
+          <e p="IEquipmentTypeRepository.cs" t="Include" />
+          <e p="IFarmerRepository.cs" t="Include" />
+          <e p="IFarmRepository.cs" t="Include" />
+          <e p="IFishTypeRepository.cs" t="Include" />
+          <e p="IPersonQuestionRepository.cs" t="Include" />
+          <e p="IQuestionRepository.cs" t="Include" />
+          <e p="ISolutionRepository.cs" t="Include" />
+          <e p="ITankRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DAL.App.DTO" t="IncludeRecursive">
+        <e p="Answer.cs" t="Include" />
+        <e p="AnsweredQuestion.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAL.App.DTO.csproj" t="IncludeRecursive" />
+        <e p="Equipment.cs" t="Include" />
+        <e p="EquipmentType.cs" t="Include" />
+        <e p="EquipmentTypeDTO.cs" t="Include" />
+        <e p="Farm.cs" t="Include" />
+        <e p="Farmer.cs" t="Include" />
+        <e p="FishType.cs" t="Include" />
+        <e p="FishTypeDto.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="AppRole.cs" t="Include" />
+          <e p="AppUser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="DAL.App.DTO.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonQuestion.cs" t="Include" />
+        <e p="Question.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+        <e p="Tank.cs" t="Include" />
+        <e p="TankDTO.cs" t="Include" />
+      </e>
+      <e p="DAL.App.EF" t="IncludeRecursive">
+        <e p="AppDbContext.cs" t="Include" />
+        <e p="AppUnitOfWork.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAL.App.EF.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="AppRepositoryFactory.cs" t="Include" />
+        </e>
+        <e p="Mappers" t="Include">
+          <e p="AnsweredQuestionMapper.cs" t="Include" />
+          <e p="AnswerMapper.cs" t="Include" />
+          <e p="EquipmentMapper.cs" t="Include" />
+          <e p="EquipmentTypeMapper.cs" t="Include" />
+          <e p="FarmerMapper.cs" t="Include" />
+          <e p="FarmMapper.cs" t="Include" />
+          <e p="FishTypeMapper.cs" t="Include" />
+          <e p="PersonQuestionMapper.cs" t="Include" />
+          <e p="QuestionMapper.cs" t="Include" />
+          <e p="SolutionMapper.cs" t="Include" />
+          <e p="TankMapper.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20190603122735_InitialDbCreation.cs" t="Include" />
+          <e p="20190603122735_InitialDbCreation.Designer.cs" t="Include" />
+          <e p="AppDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="DAL.App.EF.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="AnsweredQuestionRepository.cs" t="Include" />
+          <e p="AnswerRepository.cs" t="Include" />
+          <e p="EquipmentRepository.cs" t="Include" />
+          <e p="EquipmentTypeRepository.cs" t="Include" />
+          <e p="FarmerRepository.cs" t="Include" />
+          <e p="FarmRepository.cs" t="Include" />
+          <e p="FishTypeRepository.cs" t="Include" />
+          <e p="PersonQuestionRepository.cs" t="Include" />
+          <e p="QuestionRepository.cs" t="Include" />
+          <e p="SolutionRepository.cs" t="Include" />
+          <e p="TankRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Dockerfile" t="Include" />
+      <e p="Domain" t="IncludeRecursive">
+        <e p="Answer.cs" t="Include" />
+        <e p="AnsweredQuestion.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Domain.csproj" t="IncludeRecursive" />
+        <e p="DomainEntity.cs" t="Include" />
+        <e p="Equipment.cs" t="Include" />
+        <e p="EquipmentType.cs" t="Include" />
+        <e p="Farm.cs" t="Include" />
+        <e p="Farmer.cs" t="Include" />
+        <e p="FishType.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="AppRole.cs" t="Include" />
+          <e p="AppUser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonQuestion.cs" t="Include" />
+        <e p="Question.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+        <e p="Tank.cs" t="Include" />
+      </e>
+      <e p="FishFarm.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PublicApi.v1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Mappers" t="Include">
+          <e p="AnsweredQuestionMapper.cs" t="Include" />
+          <e p="AnswerMapper.cs" t="Include" />
+          <e p="EquipmentMapper.cs" t="Include" />
+          <e p="EquipmentTypeMapper.cs" t="Include" />
+          <e p="FarmerMapper.cs" t="Include" />
+          <e p="FarmMapper.cs" t="Include" />
+          <e p="FishTypeMapper.cs" t="Include" />
+          <e p="PersonQuestionMapper.cs" t="Include" />
+          <e p="QuestionMapper.cs" t="Include" />
+          <e p="SolutionMapper.cs" t="Include" />
+          <e p="TankMapper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PublicApi.v1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PublicApi.v1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="PublicApi.v1.DTO" t="IncludeRecursive">
+        <e p="Answer.cs" t="Include" />
+        <e p="AnsweredQuestion.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Equipment.cs" t="Include" />
+        <e p="EquipmentType.cs" t="Include" />
+        <e p="EquipmentTypeDTO.cs" t="Include" />
+        <e p="Farm.cs" t="Include" />
+        <e p="Farmer.cs" t="Include" />
+        <e p="FishType.cs" t="Include" />
+        <e p="FishTypeDto.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="AppRole.cs" t="Include" />
+          <e p="AppUser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PublicApi.v1.DTO.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonQuestion.cs" t="Include" />
+        <e p="PublicApi.v1.DTO.csproj" t="IncludeRecursive" />
+        <e p="Question.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+        <e p="Tank.cs" t="Include" />
+        <e p="TankDTO.cs" t="Include" />
+      </e>
+      <e p="PublicApi.v2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Mappers" t="Include">
+          <e p="AnsweredQuestionMapper.cs" t="Include" />
+          <e p="AnswerMapper.cs" t="Include" />
+          <e p="EquipmentMapper.cs" t="Include" />
+          <e p="EquipmentTypeMapper.cs" t="Include" />
+          <e p="FarmerMapper.cs" t="Include" />
+          <e p="FarmMapper.cs" t="Include" />
+          <e p="FishTypeMapper.cs" t="Include" />
+          <e p="PersonQuestionMapper.cs" t="Include" />
+          <e p="QuestionMapper.cs" t="Include" />
+          <e p="SolutionMapper.cs" t="Include" />
+          <e p="TankMapper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PublicApi.v2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PublicApi.v2.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="PublicApi.v2.DTO" t="IncludeRecursive">
+        <e p="Answer.cs" t="Include" />
+        <e p="AnsweredQuestion.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Equipment.cs" t="Include" />
+        <e p="EquipmentType.cs" t="Include" />
+        <e p="EquipmentTypeDTO.cs" t="Include" />
+        <e p="Farm.cs" t="Include" />
+        <e p="Farmer.cs" t="Include" />
+        <e p="FishType.cs" t="Include" />
+        <e p="FishTypeDto.cs" t="Include" />
+        <e p="Identity" t="Include">
+          <e p="AppRole.cs" t="Include" />
+          <e p="AppUser.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PublicApi.v2.DTO.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PersonQuestion.cs" t="Include" />
+        <e p="PublicApi.v2.DTO.csproj" t="IncludeRecursive" />
+        <e p="Question.cs" t="Include" />
+        <e p="Solution.cs" t="Include" />
+        <e p="Tank.cs" t="Include" />
+        <e p="TankDTO.cs" t="Include" />
+      </e>
+      <e p="SolutionItems" t="Include" />
+      <e p="WebApp" t="IncludeRecursive">
+        <e p="ApiControllers" t="Include">
+          <e p="v1_0" t="Include">
+            <e p="AnsweredQuestionsController.cs" t="Include" />
+            <e p="AnswersController.cs" t="Include" />
+            <e p="EquipmentsController.cs" t="Include" />
+            <e p="EquipmentTypesController.cs" t="Include" />
+            <e p="FarmersController.cs" t="Include" />
+            <e p="FarmsController.cs" t="Include" />
+            <e p="FishTypesController.cs" t="Include" />
+            <e p="Identity" t="Include">
+              <e p="AccountController.cs" t="Include" />
+            </e>
+            <e p="PersonQuestionsController.cs" t="Include" />
+            <e p="QuestionsController.cs" t="Include" />
+            <e p="SolutionsController.cs" t="Include" />
+            <e p="TanksController.cs" t="Include" />
+          </e>
+          <e p="v2_0" t="Include">
+            <e p="EquipmentTypesController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Areas" t="Include">
+          <e p="Identity" t="Include">
+            <e p="IdentityHostingStartup.cs" t="Include" />
+            <e p="Pages" t="Include">
+              <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="_ViewStart.cshtml" t="Include" />
+              <e p="Account" t="Include">
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="AccessDenied.cshtml" t="Include" />
+                <e p="AccessDenied.cshtml.cs" t="Include" />
+                <e p="ConfirmEmail.cshtml" t="Include" />
+                <e p="ConfirmEmail.cshtml.cs" t="Include" />
+                <e p="ExternalLogin.cshtml" t="Include" />
+                <e p="ExternalLogin.cshtml.cs" t="Include" />
+                <e p="ForgotPassword.cshtml" t="Include" />
+                <e p="ForgotPassword.cshtml.cs" t="Include" />
+                <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+                <e p="ForgotPasswordConfirmation.cshtml.cs" t="Include" />
+                <e p="Lockout.cshtml" t="Include" />
+                <e p="Lockout.cshtml.cs" t="Include" />
+                <e p="Login.cshtml" t="Include" />
+                <e p="Login.cshtml.cs" t="Include" />
+                <e p="LoginWith2fa.cshtml" t="Include" />
+                <e p="LoginWith2fa.cshtml.cs" t="Include" />
+                <e p="LoginWithRecoveryCode.cshtml" t="Include" />
+                <e p="LoginWithRecoveryCode.cshtml.cs" t="Include" />
+                <e p="Logout.cshtml" t="Include" />
+                <e p="Logout.cshtml.cs" t="Include" />
+                <e p="Manage" t="Include">
+                  <e p="_Layout.cshtml" t="Include" />
+                  <e p="_ManageNav.cshtml" t="Include" />
+                  <e p="_StatusMessage.cshtml" t="Include" />
+                  <e p="_ViewImports.cshtml" t="Include" />
+                  <e p="_ViewStart.cshtml" t="Include" />
+                  <e p="ChangePassword.cshtml" t="Include" />
+                  <e p="ChangePassword.cshtml.cs" t="Include" />
+                  <e p="DeletePersonalData.cshtml" t="Include" />
+                  <e p="DeletePersonalData.cshtml.cs" t="Include" />
+                  <e p="Disable2fa.cshtml" t="Include" />
+                  <e p="Disable2fa.cshtml.cs" t="Include" />
+                  <e p="DownloadPersonalData.cshtml" t="Include" />
+                  <e p="DownloadPersonalData.cshtml.cs" t="Include" />
+                  <e p="EnableAuthenticator.cshtml" t="Include" />
+                  <e p="EnableAuthenticator.cshtml.cs" t="Include" />
+                  <e p="ExternalLogins.cshtml" t="Include" />
+                  <e p="ExternalLogins.cshtml.cs" t="Include" />
+                  <e p="GenerateRecoveryCodes.cshtml" t="Include" />
+                  <e p="GenerateRecoveryCodes.cshtml.cs" t="Include" />
+                  <e p="Index.cshtml" t="Include" />
+                  <e p="Index.cshtml.cs" t="Include" />
+                  <e p="ManageNavPages.cs" t="Include" />
+                  <e p="PersonalData.cshtml" t="Include" />
+                  <e p="PersonalData.cshtml.cs" t="Include" />
+                  <e p="ResetAuthenticator.cshtml" t="Include" />
+                  <e p="ResetAuthenticator.cshtml.cs" t="Include" />
+                  <e p="SetPassword.cshtml" t="Include" />
+                  <e p="SetPassword.cshtml.cs" t="Include" />
+                  <e p="TwoFactorAuthentication.cshtml" t="Include" />
+                  <e p="TwoFactorAuthentication.cshtml.cs" t="Include" />
+                </e>
+                <e p="Register.cshtml" t="Include" />
+                <e p="Register.cshtml.cs" t="Include" />
+                <e p="ResetPassword.cshtml" t="Include" />
+                <e p="ResetPassword.cshtml.cs" t="Include" />
+                <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+                <e p="ResetPasswordConfirmation.cshtml.cs" t="Include" />
+              </e>
+              <e p="Error.cshtml" t="Include" />
+              <e p="Error.cshtml.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConfigureSwaggerOptions.cs" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="AnsweredQuestionsController.cs" t="Include" />
+          <e p="AnswersController.cs" t="Include" />
+          <e p="EquipmentsController.cs" t="Include" />
+          <e p="EquipmentTypesController.cs" t="Include" />
+          <e p="FarmersController.cs" t="Include" />
+          <e p="FarmsController.cs" t="Include" />
+          <e p="FishTypesController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="PersonQuestionsController.cs" t="Include" />
+          <e p="QuestionsController.cs" t="Include" />
+          <e p="SolutionsController.cs" t="Include" />
+          <e p="TanksController.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="EmailSender.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AnswerCreateEditViewModel.cs" t="Include" />
+          <e p="AnsweredQuestionCreateEditViewModel.cs" t="Include" />
+          <e p="EquipmentCreateEditViewModel.cs" t="Include" />
+          <e p="ErrorViewModel.cs" t="Include" />
+          <e p="FarmCreateEditViewModel.cs" t="Include" />
+          <e p="Install.cs" t="Include" />
+          <e p="PersonQuestionCreateEditViewModel.cs" t="Include" />
+          <e p="PersonQuestionVastaViewModel.cs" t="Include" />
+          <e p="SolutionCreateEditViewModel.cs" t="Include" />
+          <e p="TankCreateEditViewModel.cs" t="Include" />
+          <e p="TankFeedViewModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="WebApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="ScaffoldingReadme.txt" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="AnsweredQuestions" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Answers" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Equipments" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Install.cshtml" t="Include" />
+          </e>
+          <e p="EquipmentTypes" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Farmers" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Farms" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="FishTypes" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="PersonQuestions" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Vasta.cshtml" t="Include" />
+          </e>
+          <e p="Questions" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_CookieConsentPartial.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LoginPartial.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Solutions" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Tanks" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Feed.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="WebApp.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="C:\itcollege\VR2\icd0009-2018\README.md" t="Include" />
+    <e p="C:\itcollege\VR2\icd0009-2018\WebClient\dist" t="ExcludeRecursive" />
+    <e p="C:\itcollege\VR2\icd0009-2018\WebClient\node_modules" t="ExcludeRecursive">
+      <e p="@types" t="IncludeRecursive">
+        <e p="anymatch" t="IncludeRecursive" />
+        <e p="bluebird" t="IncludeRecursive" />
+        <e p="bootstrap" t="IncludeRecursive" />
+        <e p="jquery" t="IncludeRecursive" />
+        <e p="lodash" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
+        <e p="sizzle" t="IncludeRecursive" />
+        <e p="tapable" t="IncludeRecursive" />
+        <e p="uglify-js" t="IncludeRecursive" />
+        <e p="webpack" t="IncludeRecursive" />
+      </e>
+      <e p="aurelia-animator-css" t="IncludeRecursive" />
+      <e p="aurelia-bootstrapper" t="IncludeRecursive" />
+      <e p="aurelia-cli" t="IncludeRecursive" />
+      <e p="aurelia-fetch-client" t="IncludeRecursive" />
+      <e p="aurelia-polyfills" t="IncludeRecursive" />
+      <e p="aurelia-testing" t="IncludeRecursive" />
+      <e p="aurelia-tools" t="IncludeRecursive" />
+      <e p="aurelia-webpack-plugin" t="IncludeRecursive" />
+      <e p="bluebird" t="IncludeRecursive" />
+      <e p="bootstrap" t="IncludeRecursive" />
+      <e p="copy-webpack-plugin" t="IncludeRecursive" />
+      <e p="css-loader" t="IncludeRecursive" />
+      <e p="del" t="IncludeRecursive" />
+      <e p="duplicate-package-checker-webpack-plugin" t="IncludeRecursive" />
+      <e p="expose-loader" t="IncludeRecursive" />
+      <e p="file-loader" t="IncludeRecursive" />
+      <e p="gulp" t="IncludeRecursive" />
+      <e p="gulp-rename" t="IncludeRecursive" />
+      <e p="html-loader" t="IncludeRecursive" />
+      <e p="html-webpack-plugin" t="IncludeRecursive" />
+      <e p="istanbul-instrumenter-loader" t="IncludeRecursive" />
+      <e p="jquery" t="IncludeRecursive" />
+      <e p="json-loader" t="IncludeRecursive" />
+      <e p="mini-css-extract-plugin" t="IncludeRecursive" />
+      <e p="minimatch" t="IncludeRecursive" />
+      <e p="opn" t="IncludeRecursive" />
+      <e p="popper.js" t="IncludeRecursive" />
+      <e p="source-map" t="IncludeRecursive" />
+      <e p="style-loader" t="IncludeRecursive" />
+      <e p="through2" t="IncludeRecursive" />
+      <e p="ts-loader" t="IncludeRecursive" />
+      <e p="ts-node" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.dom.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.dom.iterable.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.collection.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.core.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.generator.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.iterable.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.promise.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.proxy.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.reflect.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.symbol.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2015.symbol.wellknown.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2016.array.include.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2016.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2016.full.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.full.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.intl.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.object.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.sharedmemory.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.string.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2017.typedarrays.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2018.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2018.full.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2018.intl.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2018.promise.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es2018.regexp.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es5.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.es6.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.array.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.asynciterable.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.bigint.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.full.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.intl.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.esnext.symbol.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.scripthost.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.webworker.d.ts" t="IncludeRecursive" />
+      <e p="typescript\lib\lib.webworker.importscripts.d.ts" t="IncludeRecursive" />
+      <e p="url-loader" t="IncludeRecursive" />
+      <e p="vinyl-fs" t="IncludeRecursive" />
+      <e p="webpack" t="IncludeRecursive" />
+      <e p="webpack-bundle-analyzer" t="IncludeRecursive" />
+      <e p="webpack-cli" t="IncludeRecursive" />
+      <e p="webpack-dev-server" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\anton\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\anton\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_FishFarm.-1608032338.00" t="ExcludeRecursive" />
+  </component>
+</project>

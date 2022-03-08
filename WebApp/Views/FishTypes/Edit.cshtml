@@ -1,0 +1,59 @@
+@model BLL.App.DTO.FishType
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>FishType</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Species" class="control-label"></label>
+                <input asp-for="Species" class="form-control" />
+                <span asp-validation-for="Species" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MinTemp" class="control-label"></label>
+                <input asp-for="MinTemp" class="form-control" />
+                <span asp-validation-for="MinTemp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxTemp" class="control-label"></label>
+                <input asp-for="MaxTemp" class="form-control" />
+                <span asp-validation-for="MaxTemp" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxNo" class="control-label"></label>
+                <input asp-for="MaxNo" class="form-control" />
+                <span asp-validation-for="MaxNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxNh" class="control-label"></label>
+                <input asp-for="MaxNh" class="form-control" />
+                <span asp-validation-for="MaxNh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MaxDensity" class="control-label"></label>
+                <input asp-for="MaxDensity" class="form-control" />
+                <span asp-validation-for="MaxDensity" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

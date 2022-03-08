@@ -1,0 +1,91 @@
+@model TankFeedViewModel
+
+@{
+    ViewData["Title"] = "Feed";
+    
+}
+
+
+<h1>Feed</h1>
+
+<h4>Tank</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Feed">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="Tank.Name" class="control-label"></label>
+                <input asp-for="Tank.Name" class="form-control"/>
+                <span asp-validation-for="Tank.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.Dimension" class="control-label"></label>
+                <input asp-for="Tank.Dimension" class="form-control"  />
+                <span asp-validation-for="Tank.Dimension" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.Quantity" class="control-label"></label>
+                <input asp-for="Tank.Quantity" class="form-control" />
+                <span asp-validation-for="Tank.Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.AverageMass" class="control-label"></label>
+                <input asp-for="Tank.AverageMass" class="form-control" />
+                <span asp-validation-for="Tank.AverageMass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.RealFcr" class="control-label"></label>
+                <input asp-for="Tank.RealFcr" class="form-control" />
+                <span asp-validation-for="Tank.RealFcr" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="TankDTO.FeedKg" class="control-label"></label>
+                <input asp-for="TankDTO.FeedKg" class="form-control" />
+                <span asp-validation-for="TankDTO.FeedKg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TankDTO.NewBiomass" class="control-label"></label>
+                <input asp-for="TankDTO.NewBiomass" class="form-control" />
+                <span asp-validation-for="TankDTO.NewBiomass" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TankDTO.NewAverage" class="control-label"></label>
+                <input asp-for="TankDTO.NewAverage" class="form-control" />
+                <span asp-validation-for="TankDTO.NewAverage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.FarmId" class="control-label"></label>
+                <select asp-for="Tank.FarmId" class ="form-control" asp-items="Model.FarmSelectList"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tank.FishTypeId" class="control-label"></label>
+                <select asp-for="Tank.FishTypeId" class ="form-control" asp-items="Model.FishTypeSelectList"></select>
+            </div>
+            <input type="hidden" asp-for="Tank.Id" />
+            <input type="hidden" asp-for="Farmer.Id" />
+            <input type="hidden" asp-for="Farmer.Score" />
+            <input type="hidden" asp-for="Farmer.Firstname" />
+            <input type="hidden" asp-for="Farmer.Lastname" />
+            <input type="hidden" asp-for="Farmer.AppUserId" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+        <label>Meil on olemas kala kogus ja keskmine mass (seda saate muuta). Algul me peame arvutama biomassi (kogus * keskmise massiga = biomass). 
+            Sööda kogus (päevane protsent) kasutame saama arv nagu fcr. Saate seda muuta või kasutada see, mis pakkutakse.
+            Peame leidma kui palju sööta vaja leitud biomassi jaoks (biomass * sööda päevane % / 100 = päevane sööda kogus killogrammides). 
+            Nüüd peame leidma, kui palju saime juurdekasvu (sööda kogus / FCRga = juurdekasv). Uue biomassi arvutamiseks peame
+            liituma vana biomass + juurdekasv = uus biomass. Peale salvestamist, saate kontrollida kas saite õiged numbrid. </label>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

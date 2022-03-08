@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8576893a-d20c-43db-b0fe-c2d40290d361" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/edit.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="35" selection-start-line="25" selection-start-column="10" selection-end-line="29" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/edit.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/ITankService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <marker date="1559653889169" expanded="true" signature="330:504" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BLL.App.DTO/TankDTO.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <marker date="1557242345789" expanded="true" signature="48:955" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BLL.App/Services/TankService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <marker date="1559653596344" expanded="true" signature="539:1916" ph="{...}" />
+                <marker date="1559653596344" expanded="true" signature="623:773" ph="{...}" />
+                <marker date="1559653596344" expanded="true" signature="862:1056" ph="{...}" />
+                <marker date="1559653596344" expanded="true" signature="1159:1332" ph="{...}" />
+                <marker date="1559653596344" expanded="true" signature="1423:1552" ph="{...}" />
+                <marker date="1559653596344" expanded="true" signature="1634:1742" ph="{...}" />
+                <marker date="1559653596344" expanded="true" signature="1814:1901" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/TankMapper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1557731638664" expanded="true" signature="163:2187" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="265:681" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="339:443" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="503:609" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="753:1452" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="841:1402" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="1521:2179" ph="{...}" />
+                <marker date="1557731638664" expanded="true" signature="1604:2142" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PublicApi.v1.DTO/TankDTO.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <marker date="1557242508230" expanded="true" signature="53:956" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/TankMapper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1559373766109" expanded="true" signature="146:4328" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="248:846" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="322:478" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="543:704" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="920:1584" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="1010:1548" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="1671:2345" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="1761:2309" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="2436:4322" ph="{...}" />
+                <marker date="1559373766109" expanded="true" signature="2532:4287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Equipment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1556429951655" expanded="true" signature="101:443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/EquipmentsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+              <folding>
+                <marker date="1559903869792" expanded="true" signature="321:5661" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="558:5659" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="653:710" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="720:946" ph="/// Get all Equipment objects ... " />
+                <marker date="1559903869792" expanded="true" signature="1166:1395" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="1405:1624" ph="/// Get Equipment object by ID ... " />
+                <marker date="1559903869792" expanded="true" signature="1831:2137" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="2033:2096" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="2147:2362" ph="/// Update Equipment object by ID ... " />
+                <marker date="1559903869792" expanded="true" signature="2580:3126" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="2626:2691" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="2858:2921" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="3136:3344" ph="/// Post Equipment object  ... " />
+                <marker date="1559903869792" expanded="true" signature="3608:4855" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="3631:3759" ph="/* check, that the Person being used is really belongs to logged in user ... */" />
+                <marker date="1559903869792" expanded="true" signature="3849:3912" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="3938:4107" ph="/* await _bll.Equipments.AddAsync(PublicApi.v1.Mappers.EquipmentMapper.MapFromExternal(equipment)); ... */" />
+                <marker date="1559903869792" expanded="true" signature="4696:4832" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="4865:5080" ph="/// Delete Equipment object by ID ... " />
+                <marker date="1559903869792" expanded="true" signature="5265:5643" ph="{...}" />
+                <marker date="1559903869792" expanded="true" signature="5441:5504" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Farmer.AppUserId</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/AnsweredQuestionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/EquipmentsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/FishType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Farmer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Farm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/EquipmentTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/EquipmentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Equipment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/AnsweredQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Identity/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Identity/AppRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FarmersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/AppUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v2_0/EquipmentTypesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Tanks/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/ITankRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Tanks/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/ISolutionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Tanks/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IQuestionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Tanks/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Tanks/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IPersonQuestionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/TanksController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IFishTypeRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IEquipmentTypeRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IEquipmentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IAnsweredQuestionsRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IAnswerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IFarmRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IFarmerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.DAL.App/IAppUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/TankMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/SolutionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/QuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/PersonQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/FishTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/FarmerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/FarmMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/PersonQuestions/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/EquipmentTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/PersonQuestions/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/EquipmentMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/PersonQuestions/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/AnswerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/PersonQuestions/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/AnsweredQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/PersonQuestions/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/PersonQuestionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/FishTypes/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/FishTypes/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/FishTypes/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/FishTypes/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/FishTypes/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/FishTypesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/5/JwtSecurityToken.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Identity/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Identity/AppRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/TankDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/EquipmentTypes/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/EquipmentTypes/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/EquipmentTypes/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/EquipmentTypes/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/PersonQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/EquipmentTypes/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/FishTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/FishType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/EquipmentTypesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Farmer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Farm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/EquipmentTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/EquipmentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Equipment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/AnsweredQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/AnsweredQuestionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/PersonQuestionVastaViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/EquipmentMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/EquipmentTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/AnswerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/SolutionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/QuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/PersonQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/AnsweredQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/EquipmentTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/EquipmentMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FarmsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/EquipmentTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/AnsweredQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/PersonQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/QuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/AnswerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/EquipmentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Equipment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/AnsweredQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/PersonQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Equipment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/EquipmentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/AnsweredQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/PersonQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70A7D9E-B5F0-4C89-B0EA-698947CAE270/6/JwtSecurityTokenHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farms/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farms/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/TankFeedViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farms/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farms/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/SolutionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/PersonQuestions/Vasta.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farms/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/Install.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/FarmsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/SolutionCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/EquipmentCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/EquipmentTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farmers/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farmers/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farmers/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farmers/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Farmers/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/FarmersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Equipments/Install.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/FishTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/TankMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/FarmerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/FarmMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Identity/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/PersonQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Identity/AppRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/FishType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Farm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/Farmer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/TankDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Farmer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Identity/AppRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/FishTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/TankMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/FarmMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Mappers/FarmerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/AppDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Identity/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Identity/AppRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/TankDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/FishTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/FishType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Farm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Shared/_LoginPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App.DTO/Farmer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/PersonQuestionCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/AnsweredQuestionCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/AnswerCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/ITankService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/ISolutionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IQuestionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IPersonQuestionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IFishTypeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.DTO/FishTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IFarmerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IFarmService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IEquipmentTypeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IEquipmentService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IAnsweredQuestionsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IAnswerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/TankService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/SolutionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/QuestionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/PersonQuestionService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/FishTypeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/FarmService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/FarmerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/EquipmentTypeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/EquipmentService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/AnsweredQuestionsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/DomainEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Helpers/AppServiceFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/Services/AnswerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/FishType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Farm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Equipment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/EquipmentType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Identity/AppUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/Identity/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Helpers/EmailSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/AnsweredQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/Account/Manage/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Contracts.BLL.App/IAppBLL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/Account/Manage/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/00AD712C-49A2-4CD0-AEBF-621079C6EED3/7E/Solution.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/Account/Login.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/TankRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/SolutionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/QuestionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/PersonQuestionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/FishTypeRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Tanks/Feed.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/FarmerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/AnswersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/FarmRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/SolutionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/EquipmentTypeRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Controllers/QuestionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/EquipmentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/AnsweredQuestionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/AnswerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/AnswersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/SolutionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/QuestionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ConfigureSwaggerOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Answers/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Answers/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Answers/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Answers/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Questions/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Questions/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Questions/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Questions/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Solutions/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL.App.EF/Helpers/AppRepositoryFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/TankCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL.App/AppBLL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/Account/Login.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/Account/Register.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/TankMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/SolutionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/QuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/PersonQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/Account/AccessDenied.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/FishTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/FarmerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/FarmMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/IdentityHostingStartup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/EquipmentTypeMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/EquipmentMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Areas/Identity/Pages/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/AnswerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2/Mappers/AnsweredQuestionMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Models/FarmCreateEditViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/TanksController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/PersonQuestionsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Equipments/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FishTypesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/EquipmentTypesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/TankDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Equipments/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Equipments/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Solution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Equipments/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/PersonQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Views/Equipments/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/EquipmentsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PublicApi.v2.DTO/FishTypeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BLL.App/Services/QuestionService.cs" />
+        <option value="$PROJECT_DIR$/PublicApi.v1.DTO/Question.cs" />
+        <option value="$PROJECT_DIR$/PublicApi.v2.DTO/Question.cs" />
+        <option value="$PROJECT_DIR$/PublicApi.v2.DTO/Farmer.cs" />
+        <option value="$PROJECT_DIR$/BLL.App/Services/SolutionService.cs" />
+        <option value="$PROJECT_DIR$/PublicApi.v1/Mappers/QuestionMapper.cs" />
+        <option value="$PROJECT_DIR$/PublicApi.v2/Mappers/QuestionMapper.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Questions/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/BLL.App.DTO/Question.cs" />
+        <option value="$PROJECT_DIR$/DAL.App.DTO/Question.cs" />
+        <option value="$PROJECT_DIR$/DAL.App.EF/Mappers/QuestionMapper.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Farms/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Models/PersonQuestionVastaViewModel.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Index.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Details.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/AnsweredQuestions/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/WebApp/Views/Tanks/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/WebApp/appsettings.json" />
+        <option value="$PROJECT_DIR$/BLL.App/Services/TankService.cs" />
+        <option value="$PROJECT_DIR$/Contracts.BLL.App/Services/ITankService.cs" />
+        <option value="$PROJECT_DIR$/Contracts.DAL.App/Repositories/ITankRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/TanksController.cs" />
+        <option value="$PROJECT_DIR$/DAL.App.EF/Repositories/TankRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/SolutionsController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/FarmsController.cs" />
+        <option value="$PROJECT_DIR$/../README.md" />
+        <option value="$PROJECT_DIR$/WebApp/Controllers/PersonQuestionsController.cs" />
+        <option value="$PROJECT_DIR$/../WebClient/src/tanks/feed.ts" />
+        <option value="$PROJECT_DIR$/../WebClient/src/services/base-service.ts" />
+        <option value="$PROJECT_DIR$/WebApp/ApiControllers/v1_0/QuestionsController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FarmersController.cs" />
+        <option value="$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FishTypesController.cs" />
+        <option value="$PROJECT_DIR$/../WebClient/src/equipments/index.ts" />
+        <option value="$PROJECT_DIR$/WebApp/ApiControllers/v1_0/TanksController.cs" />
+        <option value="$PROJECT_DIR$/../WebClient/src/interfaces/ITank.ts" />
+        <option value="$PROJECT_DIR$/../WebClient/src/interfaces/IEquipment.ts" />
+        <option value="$PROJECT_DIR$/../WebClient/src/tanks/edit.html" />
+        <option value="$PROJECT_DIR$/../WebClient/src/equipments/create.html" />
+        <option value="$PROJECT_DIR$/../WebClient/src/equipments/create.ts" />
+        <option value="$PROJECT_DIR$/../WebClient/src/farms/edit.html" />
+        <option value="$PROJECT_DIR$/../WebClient/src/interfaces/IFarm.ts" />
+        <option value="$PROJECT_DIR$/../WebClient/src/farms/create.ts" />
+        <option value="$PROJECT_DIR$/../WebClient/src/farms/create.html" />
+        <option value="$PROJECT_DIR$/../WebClient/src/farms/index.html" />
+        <option value="$PROJECT_DIR$/../WebClient/src/equipments/index.html" />
+        <option value="$PROJECT_DIR$/../WebClient/src/equipments/edit.html" />
+        <option value="$PROJECT_DIR$/WebApp/ApiControllers/v1_0/EquipmentsController.cs" />
+        <option value="$PROJECT_DIR$/../WebClient/tsconfig.json" />
+        <option value="$PROJECT_DIR$/../WebClient/src/equipments/edit.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="25" />
+    <option name="y" value="90" />
+    <option name="width" value="1750" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="FishFarm" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebClient" type="9a108dff:SolutionExplorerFileNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebClient" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dockerfile" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\itcollege\VR2\icd0009-2018\WebClient\node_modules\typescript\lib" />
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Recent projects" flag="false" />
+      <visibility group="Run configurations" flag="false" />
+      <visibility group="npm scripts" flag="false" />
+    </myKeys>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebApp/WebApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebApp" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8576893a-d20c-43db-b0fe-c2d40290d361" name="Default Changelist" comment="" />
+      <created>1550239370186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550239370186</updated>
+      <workItem from="1550239373228" duration="6088000" />
+      <workItem from="1550472289759" duration="17379000" />
+      <workItem from="1550563034437" duration="2610000" />
+      <workItem from="1550565965841" duration="15680000" />
+      <workItem from="1550646810274" duration="3469000" />
+      <workItem from="1550651030482" duration="4401000" />
+      <workItem from="1551030058570" duration="475000" />
+      <workItem from="1552484211748" duration="8468000" />
+      <workItem from="1552548170744" duration="10446000" />
+      <workItem from="1552567570645" duration="3411000" />
+      <workItem from="1552571476452" duration="5147000" />
+      <workItem from="1552762534190" duration="677000" />
+      <workItem from="1552814604100" duration="25803000" />
+      <workItem from="1552889850695" duration="25891000" />
+      <workItem from="1552977562104" duration="7175000" />
+      <workItem from="1552985166221" duration="434000" />
+      <workItem from="1552992557197" duration="7811000" />
+      <workItem from="1554013001334" duration="12843000" />
+      <workItem from="1554099264367" duration="16340000" />
+      <workItem from="1554185136632" duration="16488000" />
+      <workItem from="1554538960531" duration="12832000" />
+      <workItem from="1554617883434" duration="3496000" />
+      <workItem from="1554713534583" duration="15990000" />
+      <workItem from="1554874886507" duration="5643000" />
+      <workItem from="1554882623887" duration="230000" />
+      <workItem from="1555221718284" duration="16815000" />
+      <workItem from="1555239162708" duration="5685000" />
+      <workItem from="1555306322014" duration="15948000" />
+      <workItem from="1555392425275" duration="9452000" />
+      <workItem from="1555738872683" duration="14283000" />
+      <workItem from="1555829083617" duration="3794000" />
+      <workItem from="1556180593166" duration="36816000" />
+      <workItem from="1556277459133" duration="1537000" />
+      <workItem from="1556429214603" duration="17709000" />
+      <workItem from="1556512728969" duration="26554000" />
+      <workItem from="1556616585093" duration="13528000" />
+      <workItem from="1556733049436" duration="2281000" />
+      <workItem from="1556784397615" duration="7797000" />
+      <workItem from="1556950948069" duration="7638000" />
+      <workItem from="1557036975048" duration="24908000" />
+      <workItem from="1557122039423" duration="4724000" />
+      <workItem from="1557205836160" duration="24644000" />
+      <workItem from="1557241945234" duration="2395000" />
+      <workItem from="1557291008565" duration="19141000" />
+      <workItem from="1557380324423" duration="3186000" />
+      <workItem from="1557488506772" duration="3236000" />
+      <workItem from="1557729789433" duration="2328000" />
+      <workItem from="1557733093627" duration="7864000" />
+      <workItem from="1557818234177" duration="597000" />
+      <workItem from="1557897908920" duration="15965000" />
+      <workItem from="1558595938457" duration="2383000" />
+      <workItem from="1559023767511" duration="2236000" />
+      <workItem from="1559309051902" duration="3645000" />
+      <workItem from="1559371077443" duration="6649000" />
+      <workItem from="1559539550454" duration="432000" />
+      <workItem from="1559540050985" duration="15837000" />
+      <workItem from="1559558116077" duration="7536000" />
+      <workItem from="1559571667886" duration="6593000" />
+      <workItem from="1559624209560" duration="6326000" />
+      <workItem from="1559647223527" duration="13812000" />
+      <workItem from="1559713401301" duration="10448000" />
+      <workItem from="1559811915678" duration="23382000" />
+      <workItem from="1559901477580" duration="9896000" />
+      <workItem from="1566573359079" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="627301000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2442953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24645892" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49932885" weight="0.3286119" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="14" sideWeight="0.49798658" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5013423" side_tool="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4986577" weight="0.32719547" />
+      <window_info anchor="bottom" id="TypeScript" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/interfaces/IEquipmenttype.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipmenttypes/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipmenttypes/create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/EquipmentMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1556432569714" expanded="false" signature="6:84" ph="..." />
+            <marker date="1556432569714" expanded="true" signature="116:2038" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="151:2036" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="253:871" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="332:493" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="563:729" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="960:1439" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="1060:1403" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="1541:2030" ph="{...}" />
+            <marker date="1556432569714" expanded="true" signature="1641:1994" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.App/Mappers/TankMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1557731726100" expanded="false" signature="6:132" ph="..." />
+            <marker date="1557731726100" expanded="true" signature="159:4267" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="206:4265" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="308:799" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="382:488" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="553:659" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="873:1552" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="961:1516" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="1626:2303" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="1714:2268" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="2394:4257" ph="{...}" />
+            <marker date="1557731726100" expanded="true" signature="2490:4222" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.App/Mappers/EquipmentMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1557731726198" expanded="false" signature="6:132" ph="..." />
+            <marker date="1557731726198" expanded="true" signature="159:1964" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="211:1962" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="313:824" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="392:503" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="573:684" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="913:1390" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="1011:1354" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="1479:1955" ph="{...}" />
+            <marker date="1557731726198" expanded="true" signature="1577:1920" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.App.DTO/Equipment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556204056851" expanded="true" signature="67:440" ph="{...}" />
+            <marker date="1556204056851" expanded="true" signature="96:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.App.DTO/Tank.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556183642755" expanded="true" signature="67:754" ph="{...}" />
+            <marker date="1556183642755" expanded="true" signature="91:752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/IEquipmentService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1557731726360" expanded="false" signature="6:186" ph="..." />
+            <marker date="1557731726360" expanded="true" signature="224:373" ph="{...}" />
+            <marker date="1557731726360" expanded="true" signature="350:371" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/IEquipmentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1557731638235" expanded="false" signature="6:153" ph="..." />
+            <marker date="1557731638235" expanded="true" signature="195:632" ph="{...}" />
+            <marker date="1557731638235" expanded="true" signature="283:295" ph="{...}" />
+            <marker date="1557731638235" expanded="true" signature="425:630" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contracts.DAL.App/Repositories/ITankRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <marker date="1559654076665" expanded="false" signature="6:172" ph="..." />
+            <marker date="1559654076665" expanded="true" signature="215:840" ph="{...}" />
+            <marker date="1559654076665" expanded="true" signature="292:482" ph="{...}" />
+            <marker date="1559654076665" expanded="true" signature="602:838" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL.App.DTO/TankDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1557209006659" expanded="true" signature="49:986" ph="{...}" />
+            <marker date="1557209006659" expanded="true" signature="76:984" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/EquipmentMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1557731638772" expanded="false" signature="6:86" ph="..." />
+            <marker date="1557731638772" expanded="true" signature="116:1896" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="168:1894" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="270:706" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="349:458" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="523:634" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="793:1330" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="891:1240" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="1414:1888" ph="{...}" />
+            <marker date="1557731638772" expanded="true" signature="1507:1850" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/TankRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1559654491300" expanded="false" signature="6:365" ph="..." />
+            <marker date="1559654491300" expanded="true" signature="400:4902" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="513:4900" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="630:650" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="743:2856" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="1004:2813" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="1754:2774" ph="/* Biomass =  tank.AverageMass * Convert.ToSingle(tank.Quantity), ... */" />
+            <marker date="1559654491300" expanded="true" signature="2936:3833" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="3071:3762" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="3913:4236" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="4318:4654" ph="{...}" />
+            <marker date="1559654491300" expanded="true" signature="4751:4894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL.App.EF/Repositories/EquipmentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1557731786213" expanded="false" signature="6:369" ph="..." />
+            <marker date="1557731786213" expanded="true" signature="404:1711" ph="{...}" />
+            <marker date="1557731786213" expanded="true" signature="537:1709" ph="{...}" />
+            <marker date="1557731786213" expanded="true" signature="663:683" ph="{...}" />
+            <marker date="1557731786213" expanded="true" signature="767:1055" ph="{...}" />
+            <marker date="1557731786213" expanded="true" signature="1142:1498" ph="{...}" />
+            <marker date="1557731786213" expanded="true" signature="1578:1703" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/SolutionsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1559372442100" expanded="false" signature="6:283" ph="..." />
+            <marker date="1559372442100" expanded="true" signature="321:4919" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="557:4917" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="652:709" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="719:965" ph="/// Get all Solution objects ... " />
+            <marker date="1559372442100" expanded="true" signature="1182:1345" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="1355:1571" ph="/// Get Solution object by ID ... " />
+            <marker date="1559372442100" expanded="true" signature="1775:2076" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="1973:2036" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="2086:2298" ph="/// Update Solution object by ID ... " />
+            <marker date="1559372442100" expanded="true" signature="2512:2974" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="2557:2622" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="2725:2788" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="2984:3189" ph="/// Post Solution object  ... " />
+            <marker date="1559372442100" expanded="true" signature="3449:4346" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="3472:3612" ph="/* await _bll.Solutions.AddAsync(PublicApi.v1.Mappers.SolutionMapper.MapFromExternal(solution)); ... */" />
+            <marker date="1559372442100" expanded="true" signature="4189:4324" ph="{...}" />
+            <marker date="1559372442100" expanded="true" signature="4356:4568" ph="/// Delete Solution object by ID ... " />
+            <marker date="1559372442100" expanded="true" signature="4751:4901" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FarmersController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1290">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1559728577106" expanded="false" signature="6:283" ph="..." />
+            <marker date="1559728577106" expanded="true" signature="321:5578" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="555:5576" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="647:704" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="714:954" ph="/// Get all Farmer objects ... " />
+            <marker date="1559728577106" expanded="true" signature="1165:1570" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="1188:1397" ph="/* dosnt show data in Aurelia ... */" />
+            <marker date="1559728577106" expanded="true" signature="1580:1790" ph="/// Get Farmer object by ID ... " />
+            <marker date="1559728577106" expanded="true" signature="1988:2361" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="2260:2323" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="2371:2577" ph="/// Update Farmer object by ID ... " />
+            <marker date="1559728577106" expanded="true" signature="2783:3376" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="2826:2891" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="3069:3132" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="3386:3585" ph="/// Post Farmer object  ... " />
+            <marker date="1559728577106" expanded="true" signature="3837:4778" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="3922:4056" ph="/* await _bll.Farmers.AddAsync(PublicApi.v1.Mappers.FarmerMapper.MapFromExternal(farmer)); ... */" />
+            <marker date="1559728577106" expanded="true" signature="4625:4758" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="4788:4994" ph="/// Delete Farmer object by ID ... " />
+            <marker date="1559728577106" expanded="true" signature="5173:5560" ph="{...}" />
+            <marker date="1559728577106" expanded="true" signature="5360:5423" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/FarmsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-966">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="70" />
+          <folding>
+            <marker date="1559372417091" expanded="false" signature="6:283" ph="..." />
+            <marker date="1559372417091" expanded="true" signature="321:5363" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="553:5361" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="644:701" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="711:945" ph="/// Get all Farm objects ... " />
+            <marker date="1559372417091" expanded="true" signature="1150:1468" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="1173:1287" ph="/* dosnt show data in Aurelia ... */" />
+            <marker date="1559372417091" expanded="true" signature="1478:1682" ph="/// Get Farm object by ID ... " />
+            <marker date="1559372417091" expanded="true" signature="1874:2138" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="2039:2102" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="2148:2348" ph="/// Update Farm object by ID ... " />
+            <marker date="1559372417091" expanded="true" signature="2546:3034" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="2587:2652" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="2729:2792" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="3044:3237" ph="/// Post Farm object  ... " />
+            <marker date="1559372417091" expanded="true" signature="3481:4592" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="3679:3742" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="3768:3896" ph="/* await _bll.Farms.AddAsync(PublicApi.v1.Mappers.FarmMapper.MapFromExternal(farm)); ... */" />
+            <marker date="1559372417091" expanded="true" signature="4442:4573" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="4602:4802" ph="/// Delete Farm object by ID ... " />
+            <marker date="1559372417091" expanded="true" signature="4977:5345" ph="{...}" />
+            <marker date="1559372417091" expanded="true" signature="5148:5211" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/TanksController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <marker date="1559850973071" expanded="false" signature="6:283" ph="..." />
+            <marker date="1559850973071" expanded="true" signature="321:6485" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="553:6483" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="644:701" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="720:954" ph="/// Get all Tank objects ... " />
+            <marker date="1559850973071" expanded="true" signature="1165:1363" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="1401:1605" ph="/// Get Tank object by ID ... " />
+            <marker date="1559850973071" expanded="true" signature="1800:2231" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="1823:1940" ph="/* with user id dont work in aurelia ... */" />
+            <marker date="1559850973071" expanded="true" signature="2131:2194" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="2241:2441" ph="/// Update Tank object by ID ... " />
+            <marker date="1559850973071" expanded="true" signature="2639:3217" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="2680:2745" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="2907:2970" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="3234:4138" ph="/* [ProducesResponseType(typeof(PublicApi.v1.DTO.Tank), StatusCodes.Status200OK)] ... */" />
+            <marker date="1559850973071" expanded="true" signature="4148:4341" ph="/// Post Tank object  ... " />
+            <marker date="1559850973071" expanded="true" signature="4585:5716" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="4608:4731" ph="/* check, that the Person being used is really belongs to logged in user ... */" />
+            <marker date="1559850973071" expanded="true" signature="4816:4879" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="4905:5033" ph="/* await _bll.Tanks.AddAsync(PublicApi.v1.Mappers.TankMapper.MapFromExternal(tank)); ... */" />
+            <marker date="1559850973071" expanded="true" signature="5567:5698" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="5726:5926" ph="/// Delete Tank object by ID ... " />
+            <marker date="1559850973071" expanded="true" signature="6101:6469" ph="{...}" />
+            <marker date="1559850973071" expanded="true" signature="6272:6335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/services/tanks-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipmenttypes/create.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/interfaces/ITank.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/tanks/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="39" column="103" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/farms/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/services/answer-service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/interfaces/IEquipment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/interfaces/IFarmer.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/interfaces/IFarm.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/farms/create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/farms/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/answers/edit.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" selection-start-line="23" selection-start-column="10" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/answers/create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/farms/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/interfaces/ISolution.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/solutions/edit.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/solutions/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Equipment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556193466789" expanded="true" signature="62:414" ph="{...}" />
+            <marker date="1556193466789" expanded="true" signature="106:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/create.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="886">
+          <caret line="72" column="21" selection-start-line="71" selection-start-column="4" selection-end-line="72" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="35" selection-start-line="25" selection-start-column="10" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebClient/src/equipments/edit.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contracts.BLL.App/Services/ITankService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1559653889169" expanded="false" signature="6:186" ph="..." />
+            <marker date="1559653889169" expanded="true" signature="330:504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.App.DTO/TankDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1557242345789" expanded="true" signature="48:955" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BLL.App/Services/TankService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1559653596344" expanded="true" signature="539:1916" ph="{...}" />
+            <marker date="1559653596344" expanded="true" signature="623:773" ph="{...}" />
+            <marker date="1559653596344" expanded="true" signature="862:1056" ph="{...}" />
+            <marker date="1559653596344" expanded="true" signature="1159:1332" ph="{...}" />
+            <marker date="1559653596344" expanded="true" signature="1423:1552" ph="{...}" />
+            <marker date="1559653596344" expanded="true" signature="1634:1742" ph="{...}" />
+            <marker date="1559653596344" expanded="true" signature="1814:1901" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DAL.App.EF/Mappers/TankMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1557731638664" expanded="true" signature="163:2187" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="265:681" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="339:443" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="503:609" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="753:1452" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="841:1402" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="1521:2179" ph="{...}" />
+            <marker date="1557731638664" expanded="true" signature="1604:2142" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicApi.v1.DTO/TankDTO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1557242508230" expanded="true" signature="53:956" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicApi.v1.DTO/Equipment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556429951655" expanded="true" signature="101:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApp/ApiControllers/v1_0/EquipmentsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+          <folding>
+            <marker date="1559903869792" expanded="true" signature="321:5661" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="558:5659" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="653:710" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="720:946" ph="/// Get all Equipment objects ... " />
+            <marker date="1559903869792" expanded="true" signature="1166:1395" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="1405:1624" ph="/// Get Equipment object by ID ... " />
+            <marker date="1559903869792" expanded="true" signature="1831:2137" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="2033:2096" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="2147:2362" ph="/// Update Equipment object by ID ... " />
+            <marker date="1559903869792" expanded="true" signature="2580:3126" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="2626:2691" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="2858:2921" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="3136:3344" ph="/// Post Equipment object  ... " />
+            <marker date="1559903869792" expanded="true" signature="3608:4855" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="3631:3759" ph="/* check, that the Person being used is really belongs to logged in user ... */" />
+            <marker date="1559903869792" expanded="true" signature="3849:3912" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="3938:4107" ph="/* await _bll.Equipments.AddAsync(PublicApi.v1.Mappers.EquipmentMapper.MapFromExternal(equipment)); ... */" />
+            <marker date="1559903869792" expanded="true" signature="4696:4832" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="4865:5080" ph="/// Delete Equipment object by ID ... " />
+            <marker date="1559903869792" expanded="true" signature="5265:5643" ph="{...}" />
+            <marker date="1559903869792" expanded="true" signature="5441:5504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PublicApi.v1/Mappers/TankMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1559373766109" expanded="true" signature="146:4328" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="248:846" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="322:478" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="543:704" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="920:1584" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="1010:1548" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="1671:2345" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="1761:2309" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="2436:4322" ph="{...}" />
+            <marker date="1559373766109" expanded="true" signature="2532:4287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
